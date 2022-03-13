@@ -1,5 +1,6 @@
 # Project 2: YouTube APIs Analysis of Ali Abdaal Channel 
 ### Project At A Glance
+- Link to project: [here](https://github.com/NhiDang1001/YouTube-APIs-Analysis/blob/master/Nhi1.ipynb)
 * Analyze APIs from Ali Abdaal YouTube channel (2.78 million subscribers)
 * Project Tools: Python
 * Visualization: matplotlib
