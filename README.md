@@ -2,6 +2,8 @@
 ### Project At A Glance
 * Link to code: [here](https://github.com/NhiDang1001/YouTube-APIs-Analysis/blob/master/Nhi1.ipynb)
 * Analyze APIs from Ali Abdaal YouTube channel (2.78 million subscribers)
+* Compiled YouTube APIs and discovered uploading strategies generating an average of 200,000 views per video along with a 5% monthly increase in the number of subscribers
+* Analyzed audience’s content reference by synthesizing data of video durations, clickbait titles, views, and likes across the YouTube channel ecosystem using Python
 * Project Tools: Python
 * Visualization: matplotlib
 
